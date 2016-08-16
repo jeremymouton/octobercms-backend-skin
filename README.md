@@ -1,6 +1,13 @@
 # OctoberCMS Backend Skin
 
-Clone into `aspendigital/backend`
+## Installation
+
+- Clone into `aspendigital/backend`
+
+- Update `/config/cms.php`:
+```
+'backendSkin' => 'AspenDigital\Backend\Skins\Admin',
+```
 
 
 ## Development
